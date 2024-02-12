@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Abhiram</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcodedxb-code-dxb&psig=AOvVaw0_Qh9vNC5lFHY5zJNcpl_9&ust=1707842208756000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi0tZOepoQDFQAAAAAdAAAAABAE"]
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcodedxb-code-dxb&psig=AOvVaw0_Qh9vNC5lFHY5zJNcpl_9&ust=1707842208756000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi0tZOepoQDFQAAAAAdAAAAABAE)
+
+
 - 🔭 I’m currently working on **Exploring advanced AI and ML applications**
 
 - 🌱 I’m currently learning **Cutting-edge frameworks and techniques in AI and ML**
