@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Abhiram</h1>
 [![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/adityaabhiram315)
+[![MasterHead](https://raw.githubusercontent.com/san99tiago/ML_BASICS/master/assets/GIF_MachineLearning.gif)](https://github.com/ThecoderPinar)
 
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from India</h3>
 
