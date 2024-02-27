@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Abhiram</h1>
 <h3 align="center">A passionate Artificial Intelligence and Machine Learning Engineer from India</h3>
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flaptop-code&psig=AOvVaw20uWWZijz-_PlRpumBTkcT&ust=1707843024383000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiHmpihpoQDFQAAAAAdAAAAABAE)
 
 - 🔭 I’m currently working on **Exploring advanced AI and ML applications**
 
