@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
-<img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+
 <h1 align="center">Hi 👋, I'm Aditya Abhiram</h1>
 
 
@@ -23,6 +23,9 @@
 - 💬 Ask me about **Machine Learning,AI,Deep learning, natural language processing, and data analytics**
 
 - 📫 How to reach me **adityaabhiram315@gmail.com**
+  
+<img  align="right" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
+
 
 Click to view:
 
